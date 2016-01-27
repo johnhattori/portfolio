@@ -1,0 +1,55 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700 !important;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-brand:hover {
+    background-color: #e5e5e5 !important;
+    color: #000000 !important;
+}
+
+.top-nav {
+	margin-bottom: 0px !important;
+}
+
+.intro-header {
+    height: 855px;  
+    text-align: center;
+    background: url('https://dl.dropboxusercontent.com/s/yzgppy04ekni0tq/web3.jpg?dl=0') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.intro-message, .about-message {
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.about-message  a {
+	color: #f8f8f8 !important;
+}
+
+.content-section {
+    padding: 100px 0;
+    background: url('https://dl.dropboxusercontent.com/s/8fea374ietvu567/sugimoto-aegean-sea-pillon-1990-695x555.jpg?dl=0') no-repeat center center fixed;
+    background-size: cover;
+    height: 855px;
+}
+
+.portfolio-item {
+	margin-top: 20px;
+}
